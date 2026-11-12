@@ -1,13 +1,13 @@
 {
   "name": "PlanoJardim",
   "short_name": "PlanoJardim",
-  "description": "Fichas ilustradas automáticas + planejamento para Jardim I, II e III",
+  "description": "Planejamento pedagógico, atividades e comunicação para a Educação Infantil.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#f4f8ff",
-  "theme_color": "#2f6bff",
+  "background_color": "#f6f7f2",
+  "theme_color": "#37634a",
   "lang": "pt-BR",
   "icons": [
     { "src": "/icone-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
